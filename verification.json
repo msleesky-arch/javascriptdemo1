@@ -1,0 +1,129 @@
+{
+  "demos": [
+    {
+      "id": "bar",
+      "status": "pass"
+    },
+    {
+      "id": "line",
+      "status": "pass"
+    },
+    {
+      "id": "doughnut",
+      "status": "pass"
+    },
+    {
+      "id": "anime",
+      "status": "pass"
+    },
+    {
+      "id": "stagger",
+      "status": "pass"
+    },
+    {
+      "id": "gsap",
+      "status": "pass"
+    },
+    {
+      "id": "textmotion",
+      "status": "pass"
+    },
+    {
+      "id": "sort",
+      "status": "pass"
+    },
+    {
+      "id": "markdown",
+      "status": "pass"
+    },
+    {
+      "id": "highlight",
+      "status": "pass"
+    },
+    {
+      "id": "fuzzy",
+      "status": "pass"
+    },
+    {
+      "id": "date",
+      "status": "pass"
+    },
+    {
+      "id": "dday",
+      "status": "pass"
+    },
+    {
+      "id": "unique",
+      "status": "pass"
+    },
+    {
+      "id": "group",
+      "status": "pass"
+    },
+    {
+      "id": "csv",
+      "status": "pass"
+    },
+    {
+      "id": "csvexport",
+      "status": "pass"
+    },
+    {
+      "id": "qr",
+      "status": "pass"
+    },
+    {
+      "id": "barcode",
+      "status": "pass"
+    },
+    {
+      "id": "math",
+      "status": "pass"
+    },
+    {
+      "id": "unit",
+      "status": "pass"
+    },
+    {
+      "id": "palette",
+      "status": "pass"
+    },
+    {
+      "id": "contrast",
+      "status": "pass"
+    },
+    {
+      "id": "confetti",
+      "status": "pass"
+    },
+    {
+      "id": "alert",
+      "status": "pass"
+    },
+    {
+      "id": "picker",
+      "status": "pass"
+    },
+    {
+      "id": "sanitize",
+      "status": "pass"
+    },
+    {
+      "id": "compress",
+      "status": "pass"
+    },
+    {
+      "id": "uuid",
+      "status": "pass"
+    },
+    {
+      "id": "shuffle",
+      "status": "pass"
+    }
+  ],
+  "search": "pass",
+  "categories": "pass",
+  "mobile": "pass",
+  "directFile": "pass",
+  "consoleErrors": []
+}

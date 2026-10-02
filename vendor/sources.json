@@ -1,0 +1,112 @@
+[
+  {
+    "file": "chart",
+    "source": "https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.js",
+    "bytes": 206279
+  },
+  {
+    "file": "anime",
+    "source": "https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js",
+    "bytes": 17384
+  },
+  {
+    "file": "gsap",
+    "source": "https://cdn.jsdelivr.net/npm/gsap@3.12.7/dist/gsap.min.js",
+    "bytes": 72304
+  },
+  {
+    "file": "sortable",
+    "source": "https://cdn.jsdelivr.net/npm/sortablejs@1.15.6/Sortable.min.js",
+    "bytes": 45092
+  },
+  {
+    "file": "marked",
+    "source": "https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js",
+    "bytes": 35479
+  },
+  {
+    "file": "highlight",
+    "source": "https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11.11.1/highlight.min.js",
+    "bytes": 127496
+  },
+  {
+    "file": "fuse",
+    "source": "https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.min.js",
+    "bytes": 26415
+  },
+  {
+    "file": "dayjs",
+    "source": "https://cdn.jsdelivr.net/npm/dayjs@1.11.13/dayjs.min.js",
+    "bytes": 7160
+  },
+  {
+    "file": "lodash",
+    "source": "https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js",
+    "bytes": 73015
+  },
+  {
+    "file": "papa",
+    "source": "https://cdn.jsdelivr.net/npm/papaparse@5.5.2/papaparse.min.js",
+    "bytes": 19402
+  },
+  {
+    "file": "qrcode",
+    "source": "https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js",
+    "bytes": 19927
+  },
+  {
+    "file": "barcode",
+    "source": "https://cdn.jsdelivr.net/npm/jsbarcode@3.12.1/dist/JsBarcode.all.min.js",
+    "bytes": 66355
+  },
+  {
+    "file": "math",
+    "source": "https://cdn.jsdelivr.net/npm/mathjs@14.2.1/lib/browser/math.js",
+    "bytes": 683345
+  },
+  {
+    "file": "chroma",
+    "source": "https://cdn.jsdelivr.net/npm/chroma-js@3.1.2/dist/chroma.min.cjs",
+    "bytes": 52314
+  },
+  {
+    "file": "confetti",
+    "source": "https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js",
+    "bytes": 10808
+  },
+  {
+    "file": "swal",
+    "source": "https://cdn.jsdelivr.net/npm/sweetalert2@11.17.2/dist/sweetalert2.all.min.js",
+    "bytes": 74925
+  },
+  {
+    "file": "flatpickr",
+    "source": "https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.js",
+    "bytes": 50679
+  },
+  {
+    "file": "purify",
+    "source": "https://cdn.jsdelivr.net/npm/dompurify@3.2.6/dist/purify.min.js",
+    "bytes": 22305
+  },
+  {
+    "file": "lz",
+    "source": "https://cdn.jsdelivr.net/npm/lz-string@1.5.0/libs/lz-string.min.js",
+    "bytes": 4814
+  },
+  {
+    "file": "uuid",
+    "source": "https://cdn.jsdelivr.net/npm/uuid@8.3.2/dist/umd/uuid.min.js",
+    "bytes": 8160
+  },
+  {
+    "file": "flatpickr.css",
+    "source": "https://cdn.jsdelivr.net/npm/flatpickr@4.6.13/dist/flatpickr.min.css",
+    "bytes": 16166
+  },
+  {
+    "file": "highlight.css",
+    "source": "https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11.11.1/styles/github-dark.min.css",
+    "bytes": 1315
+  }
+]
